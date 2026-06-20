@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.daoxinlu.twa",
+    "sha256_cert_fingerprints": [
+      "70:37:8D:3B:5D:97:2A:42:F0:8E:F0:49:43:6F:17:15:AB:E3:47:A9:72:64:48:1C:E8:E6:ED:3C:1C:77:1E:F5"
+    ]
+  }
+}]
